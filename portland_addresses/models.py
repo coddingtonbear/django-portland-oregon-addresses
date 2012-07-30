@@ -59,3 +59,6 @@ class Address(models.Model):
                 self.street_name,
                 self.suffix,
                 )
+
+    class Meta:
+        verbose_name_plural = 'Addresses'
