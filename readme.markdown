@@ -1,5 +1,5 @@
-Introduction
-============
+Django-portland-oregon-addresses
+================================
 
 Do you need to geocode more addresses in Portland, OR than the Google Maps API will allow? This app will download and import a list of addresses provided by the City of Portland, Oregon, and provide you with an easy method for geocoding addresses you provide
 
@@ -55,3 +55,5 @@ Commands
 
 `load_addresses`: Download and import addresses provided by the City of Portland, Oregon.
 
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/latestrevision/django-portland-oregon-addresses/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
