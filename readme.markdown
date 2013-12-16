@@ -12,12 +12,6 @@ You can either install from pip:
 
     pip install django-portland-oregon-addresses
 
-*or* checkout and install the source from the [bitbucket repository](https://bitbucket.org/latestrevision/django-portland-oregon-addresses):
-
-    hg clone https://bitbucket.org/latestrevision/django-portland-oregon-addresses
-    cd django-portland-oregon-addresses
-    python setup.py install
-
 *or* checkout and install the source from the [github repository](https://github.com/latestrevision/django-portland-oregon-addresses):
 
     git clone https://github.com/latestrevision/django-portland-oregon-addresses.git

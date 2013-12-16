@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='django-portland-oregon-addresses',
     version='1.0.1',
-    url='http://bitbucket.org/latestrevision/django-portland-oregon-addresses/',
+    url='http://github.com/latestrevision/django-portland-oregon-addresses/',
     description='Geocode as many addreses in Portland, OR as you would like.',
     author='Adam Coddington',
     author_email='me@adamcoddington.net',
