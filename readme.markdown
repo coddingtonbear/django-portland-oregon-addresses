@@ -12,9 +12,9 @@ You can either install from pip:
 
     pip install django-portland-oregon-addresses
 
-*or* checkout and install the source from the [github repository](https://github.com/latestrevision/django-portland-oregon-addresses):
+*or* checkout and install the source from the [github repository](https://github.com/coddingtonbear/django-portland-oregon-addresses):
 
-    git clone https://github.com/latestrevision/django-portland-oregon-addresses.git
+    git clone https://github.com/coddingtonbear/django-portland-oregon-addresses.git
     cd django-portland-oregon-addresses
     python setup.py install
 
@@ -50,4 +50,4 @@ Commands
 `load_addresses`: Download and import addresses provided by the City of Portland, Oregon.
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/latestrevision/django-portland-oregon-addresses/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/coddingtonbear/django-portland-oregon-addresses/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
